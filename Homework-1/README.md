@@ -107,3 +107,7 @@ a) we have a chessboard where the 1st square = 1 grain
 so about a few hundred billion years. 
 
 b) If the inventor asked to add two grains to each of the squares, instead of doubling the number of grains for each square of the chessboard, it would follow the pattern 1 = 1^2, 1+3 = 2^2, 1+3+5 = 3^2, etc. Therefore, on the 64th square, it would be 64^2 or 4096.
+
+7. How many function calls for C(20,11)?
+Without memoization: 335,919
+With memoization: 119
